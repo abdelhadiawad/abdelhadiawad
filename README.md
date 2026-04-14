@@ -10,14 +10,17 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+```python
+def repeat():
+    code()
+    learn()
+    build_pipeline()
+    eat()
+    sleep()
+    repeat()
 
-I am a Computer Science student and aspiring Data Engineer with a strong interest in data pipelines, ETL/ELT processes, data modeling, and analytics.  
-I enjoy transforming raw data into clean, structured, and analysis-ready datasets using Python, SQL, and modern data tools.  
-Currently, I am improving my skills through hands-on projects, practical training, and continuous learning in data engineering.
-
-<br clear="right"/>
-
+repeat()
+```
 ## 🔧 My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
