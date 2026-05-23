@@ -39,8 +39,8 @@ Currently, I am improving my skills through hands-on projects, practical trainin
 <div align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelhadiawad&theme=tokyonight" 
-  alt="GitHub Profile Summary"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelhadiawad&theme=tokyonight" 
+  alt="GitHub Stats"
 />
 
 <br/><br/>
@@ -51,8 +51,8 @@ Currently, I am improving my skills through hands-on projects, practical trainin
 />
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelhadiawad&theme=tokyonight" 
-  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelhadiawad&theme=tokyonight" 
+  alt="Most Commit Language"
 />
 
 </div>
