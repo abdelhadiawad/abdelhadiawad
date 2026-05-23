@@ -39,15 +39,20 @@ Currently, I am improving my skills through hands-on projects, practical trainin
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=abdelhadiawad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt="Abdelhadi Awad GitHub Stats" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelhadiawad&theme=tokyonight" 
+  alt="GitHub Profile Summary"
 />
 
 <br/><br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhadiawad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt="Top Languages" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelhadiawad&theme=tokyonight" 
+  alt="Repos per Language"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelhadiawad&theme=tokyonight" 
+  alt="GitHub Stats"
 />
 
 </div>
