@@ -2,11 +2,11 @@
 
 #  Hey there, I'm Abdelhadi Awad ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=700&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%9A%80+Data+Engineer;%F0%9F%92%BB+Computer+Science+Student;%E2%9A%99%EF%B8%8F+Building+Data+Pipelines;%F0%9F%94%A5+ETL+%7C+ELT+%7C+Data+Warehousing;%E2%9A%A1+Spark+%7C+PySpark+%7C+Airflow;%F0%9F%93%8A+Turning+Raw+Data+into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=700&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%E2%9C%A8+Data+Engineer;%F0%9F%92%BB+Computer+Science+Student;%E2%9A%99%EF%B8%8F+Building+Data+Pipelines;%F0%9F%94%A5+ETL+%7C+ELT+%7C+Data+Warehousing;%E2%9A%A1+Spark+%7C+PySpark+%7C+Airflow;%F0%9F%93%8A+Turning+Raw+Data+into+Insights" alt="Typing SVG" />
 
 <br>
 
-###  Aspiring Data Engineer 
+###  Aspiring Data Engineer ث✨
 
 <br>
 
