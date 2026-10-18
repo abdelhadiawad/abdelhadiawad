@@ -6,7 +6,7 @@
 
 <br>
 
-###  Aspiring Data Engineer ث✨
+###  Aspiring Data Engineer ✨
 
 <br>
 
